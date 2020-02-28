@@ -41,5 +41,3 @@ void Account::display(ostream & out) const
 {
 	out << "None " << endl;
 } 					
-
- 
